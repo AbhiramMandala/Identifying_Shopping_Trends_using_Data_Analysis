@@ -9,4 +9,4 @@ This project analyzes shopping trends data to uncover valuable insights about cu
 
 ## Acknowledgments
 
-Thanks to all collaborators and datasets that made this analysis possible.
+Thanks to Edunet and techsaksham that made this analysis possible.
