@@ -1,2 +1,7 @@
 # Identifying_Shopping_Trends_using_Data_Analysis
 This project analyzes shopping trends data to uncover valuable insights about customer behavior, preferences, and purchasing patterns. Through comprehensive data analysis, we explore various aspects of shopping trends to help businesses make data-driven decisions.
+**Technologies Used:**
+Python (Pandas, NumPy, Matplotlib, Seaborn)
+Jupyter Notebooks for documentation.
+**Acknowledgments**
+Thanks to all collaborators and datasets that made this analysis possible.
